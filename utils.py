@@ -1,4 +1,4 @@
-# 
+
 # Funzione per vedere tutti i contatti
 def vedi_tutti_contatti():
     if contatti:
